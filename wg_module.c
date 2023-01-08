@@ -1,13 +1,14 @@
 /*
  * Copyright (C) Chen Xi.
  *
- * Main program.
+ * Module management.
  * Written by Chen Xi <sunwhite@gmail.com> Jan 2023
  */
 
-#include <stdio.h>
+#include "wg_module.h"
 
-int main() {
+int main()
+{
     printf("Hello, World!\n");
     return 0;
 }
