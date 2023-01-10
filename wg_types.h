@@ -1,7 +1,7 @@
 /*
  * Copyright (C) Chen Xi.
  *
- * type wrapper.
+ * Type wrapper.
  * Written by Chen Xi <sunwhite@gmail.com> Jan 2023
  */
 
@@ -21,7 +21,15 @@
 #endif /* FALSE */
 
 #ifndef ZERO
-#define ZERO '\0';
+#define ZERO '\0'
 #endif /* ZERO */
+
+#ifndef SUCCESS
+#define SUCCESS TRUE
+#endif /* SUCCESS */
+
+#ifndef FAILURE
+#define FAILURE FALSE
+#endif /* FAILURE */
 
 #endif /* _TYPES_H_ */

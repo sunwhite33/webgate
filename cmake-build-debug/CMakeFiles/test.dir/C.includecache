@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/work/ClionProjects/webgate/test.c
+check.h
+-
+wg_types.h
+/cygdrive/d/work/ClionProjects/webgate/wg_types.h
+
+/cygdrive/d/work/ClionProjects/webgate/wg_types.h
+

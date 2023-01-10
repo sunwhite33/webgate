@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/d/work/ClionProjects/webgate/webgate.c" "/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/webgate.dir/webgate.c.o"
+  "/cygdrive/d/work/ClionProjects/webgate/test.c" "/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/test.dir/test.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

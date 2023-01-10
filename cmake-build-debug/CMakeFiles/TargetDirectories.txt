@@ -1,3 +1,4 @@
-/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/edit_cache.dir
 /cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/webgate.dir
+/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/work/ClionProjects/webgate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
